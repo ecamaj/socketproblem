@@ -1,0 +1,4 @@
+python-socketio
+gevent
+gevent-websocket
+ujson
